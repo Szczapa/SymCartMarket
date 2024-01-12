@@ -1,6 +1,7 @@
 # Ecommerce_apiPlatform
 
-Ce projet est une initiative personnelle visant à se former sur l'utilisation de l'API Platform avec Symfony.
+Ce projet est une initiative personnelle visant à se former sur l'utilisation de l'API Platform avec Symfony 7.
+C'est une refont de mon projet d'étude : https://github.com/Szczapa/Projet_Etude_Symfony_Ecommerce
 
 ## FAQ
 
