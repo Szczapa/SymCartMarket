@@ -29,7 +29,7 @@ C'est une refonte de mon projet d'étude : https://github.com/Szczapa/Projet_Etu
 - [ ] Connection au Front end.
 
 #### Utilisateur
-- [x] Création d'utilisateur
+- [ ] Création d'utilisateur
 - [ ] Recherche par id
 - [ ] Récupération de tout les utilisateurs
 - [ ] Update d'un utilisateur
